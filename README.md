@@ -35,6 +35,10 @@ FastAPI-based machine learning API for detecting tomato plant diseases using a t
 
 SQL Server relational database project for a fitness center management system, demonstrating database design, normalization, T-SQL scripting, views, stored procedures, and triggers.
 
+### fitness-goal-tracker
+
+Responsive fitness tracking web app for managing workout goals, achievements, favorites, and progress statistics.
+
 ## 🎯 Current Focus
 
 * Strengthening my data and software development skills
