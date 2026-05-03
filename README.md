@@ -39,6 +39,10 @@ SQL Server relational database project for a fitness center management system, d
 
 Responsive fitness tracking web app for managing workout goals, achievements, favorites, and progress statistics.
 
+### plant-disease-detection-system
+
+AI-powered plant disease detection system using TensorFlow Lite, Node.js, and SQL Server.
+
 ## 🎯 Current Focus
 
 * Strengthening my data and software development skills
