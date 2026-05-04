@@ -33,6 +33,12 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,js,cs,cpp,html,css,vscode,github" />
+  </a>
+</p>
+
 ### 🧰 Frameworks & Technologies
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
