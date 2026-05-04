@@ -39,7 +39,7 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 
 ## 📌 Projects
 
-### 🦸‍♂️ HeroLegends
+### 🦸‍♂️ [HeroLegends](https://github.com/John31615/HeroLegends)
 
 Desktop superhero management system built with C# WinForms, featuring hero management, automatic ranking, and performance tracking.
 
