@@ -19,13 +19,12 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,sql,github,vscode />
+    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,sql,github,vscode"/>
   </a>
 </p>
 
 ### 🧰 Frameworks & Technologies
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
