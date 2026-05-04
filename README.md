@@ -27,10 +27,10 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 ### 🧰 Frameworks & Technologies
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/376350/dotnet.svg" width="50" title=".NET WinForms" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" title="SQL Server" />
-  <img src="https://www.svgrepo.com/show/354259/tensorflow.svg" width="50" title="TensorFlow" />
-  <img src="https://www.svgrepo.com/show/374088/fastapi.svg" width="50" title="FastAPI" />
+  <img src="https://img.shields.io/badge/.NET_WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
