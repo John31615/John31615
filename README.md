@@ -43,19 +43,19 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 
 Desktop superhero management system built with C# WinForms, featuring hero management, automatic ranking, and performance tracking.
 
-### 🌱 Plant Disease API
+### 🌱 [Plant Disease API](https://github.com/John31615/plant-disease-api)
 
 FastAPI-based machine learning API for detecting tomato plant diseases using a trained TensorFlow model.
 
-### 🏋️ PowerFitGym Database System
+### 🏋️ [PowerFitGym Database System](https://github.com/John31615/PowerFitGym-Database-System)
 
 SQL Server database project demonstrating normalization, T-SQL, views, stored procedures, and triggers.
 
-### 📊 Fitness Goal Tracker
+### 📊 [Fitness Goal Tracker](https://github.com/John31615/fitness-goal-tracker)
 
 Responsive web app for tracking workouts, goals, achievements, and progress.
 
-### 🤖 Plant Disease Detection System
+### 🤖 [Plant Disease Detection System](https://github.com/John31615/plant-disease-detection-system)
 
 AI-powered system using TensorFlow Lite, Node.js, and SQL Server for real-time plant disease detection.
 
