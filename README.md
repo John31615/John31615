@@ -1,57 +1,74 @@
-<div align="center">
+## 👋 Hi, I'm Enock Mntungwa
 
-# Hey, I'm Enock Mntungwa 👋
-
-Third-year Bachelor of Computing student · Johannesburg, South Africa 🇿🇦
-
-![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-purple?style=flat-square)
-![Software Dev](https://img.shields.io/badge/Software%20Dev-orange?style=flat-square)
-
-</div>
+I'm a **third-year Bachelor of Computing student** with a strong interest in **data, software development, and solving real-world problems through technology.**
 
 ---
 
-## About me
+## 🚀 About Me
 
-- 📊 Building skills in **Data Science**, **Data Engineering** & **Machine Learning**
-- 🗄️ Strong interest in databases, analytics & modern dev practices
-- 💡 Love creating projects that mix logic, creativity & real-world impact
-- 📚 Always learning through hands-on projects
-
----
-
-## Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+* 📊 Currently building skills in **Data Science, Data Engineering, and Machine Learning**
+* 💡 Enjoy creating projects that combine **logic, creativity, and real-world impact**
+* 🗄️ Strong interest in **databases, analytics, and modern development practices**
+* 📚 Continuously learning through **hands-on projects**
 
 ---
 
-## Pinned projects
+## 🛠️ Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| 🦸 **HeroLegends** | C# WinForms desktop system for hero management & ranking |
-| 🌱 **Plant Disease API** | FastAPI + TensorFlow ML API for tomato disease detection |
-| 🏋️ **PowerFitGym DB** | SQL Server project with T-SQL, views, procedures & triggers |
-| 📊 **Fitness Tracker** | Responsive web app for tracking workout goals & progress |
-| 🤖 **Plant Disease Detection** | Full AI system using TensorFlow Lite, Node.js & SQL Server |
+### 💻 Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,github,vscode"/>
+  </a>
+</p>
+
+
+### 🧰 Frameworks & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
+</p>
 
 ---
 
-## Current focus
+## 📌 Projects
 
-- Strengthening data & software development skills
-- Building real-world, practical projects
-- Preparing for opportunities in tech
+### 🦸‍♂️ [HeroLegends](https://github.com/John31615/HeroLegends)
+
+Desktop superhero management system built with C# WinForms, featuring hero management, automatic ranking, and performance tracking.
+
+### 🤖 [Plant Disease Detection System](https://github.com/John31615/plant-disease-detection-system)
+
+AI-powered system using TensorFlow Lite, Node.js, and SQL Server for real-time plant disease detection.
+
+### 🏋️ [PowerFitGym Database System](https://github.com/John31615/PowerFitGym-Database-System)
+
+SQL Server database project demonstrating normalization, T-SQL, views, stored procedures, and triggers.
+
+### 📊 [Fitness Goal Tracker](https://github.com/John31615/fitness-goal-tracker)
+
+Responsive web app for tracking workouts, goals, achievements, and progress.
+
+### 🌱 [Plant Disease API](https://github.com/John31615/plant-disease-api)
+
+FastAPI-based machine learning API for detecting tomato plant diseases using a trained TensorFlow model.
+
+
 
 ---
 
-<div align="center">✨ Thanks for visiting!</div>
+## 🎯 Current Focus
+
+* Strengthening **data and software development skills**
+* Building **real-world, practical projects**
+* Preparing for **opportunities in tech**
+
+---
+
+## ✨ Thanks for visiting my profile!
+
+
