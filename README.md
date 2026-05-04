@@ -19,7 +19,7 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,sql,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,github,vscode"/>
   </a>
 </p>
 
