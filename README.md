@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Enock Mntungwa
 
-I'm a **third-year Bachelor of Computing student** with a strong interest in **data, software development, and solving real-world problems through technology.**
+I'm a **Bachelor of Computing student at Belgium Campus iTversity**, specialising in **Business Intelligence (Data Science)**. I'm interested in data engineering, data science, and software development, and enjoy using technology to solve real-world problems.
 
+My projects explore Python, SQL, Power BI, and machine learning, ranging from data analytics and predictive modelling to AI-powered applications. I'm continuously learning, building projects, and improving my technical skills.
 ---
 
 ## 🚀 About Me
